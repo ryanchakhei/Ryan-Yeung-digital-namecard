@@ -12,5 +12,5 @@ item1.X-ABADR:sg
 item2.URL;type=pref:http://chongshingtinbox.en.alibaba.com/
 item2.X-ABLabel:_$!<HomePage>!$_
 item3.URL;type=pref:https://docs.google.com/forms/d/e/1FAIpQLSeDC62L2Y6hdofpe4pB3AxGMuo3j3bp7HhFnNznbcnkf53EkQ/viewform
-item3.X-ABLabel:_$!<WebSite>!$_
+item3.X-ABLabel:Inquiry Form
 END:VCARD
