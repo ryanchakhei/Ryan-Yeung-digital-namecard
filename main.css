@@ -42,7 +42,7 @@ img.profile-pic {
 img.logo {
 	height: 50%;
 	width: 50%;
-	object-fit: contain;
+	object-fit: cover;
 
 }
 
